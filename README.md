@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Patrick Adefowora 👋</h1>
+<h1 align="center">Patrick Adefowora 👋</h1>
 <h3 align="center">Cyber Risk & Assurance Engineer | ISO 27001 • CAF • GRC • Security Operations</h3>
 
 <p align="center">
-  I turn cyber risk into actionable assurance — bridging compliance frameworks with real-world security implementation.
+  Turning cyber risk into actionable assurance — from frameworks to real-world implementation.
 </p>
 
 <p align="center">
@@ -12,22 +12,17 @@
 
 ---
 
-## About Me
+## 🧠 About Me
 
-Cyber Risk & Assurance Analyst with hands-on exposure across governance, risk, compliance (GRC) and security operations. I focus on translating audit requirements into practical, measurable outcomes that improve organisational resilience.
+Cyber Risk & Assurance Analyst with hands-on experience across governance, risk, compliance (GRC) and security operations.
 
-- Governance, Risk & Compliance (GRC)
-- ISO/IEC 27001, NIST CSF & NCSC CAF alignment
-- Cyber risk assessment & control effectiveness
-- Audit readiness & assurance processes
-- SIEM (Splunk) log analysis & threat investigation
-- Security monitoring, incident analysis & response workflows
+I specialise in translating compliance frameworks into practical, measurable outcomes that improve organisational resilience — particularly within **UK public sector and critical infrastructure environments**.
 
 ---
 
-## Tech & Frameworks
+## ⚙️ Tech, Tools & Frameworks
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/ISO%2027001-GRC-success" />
   <img src="https://img.shields.io/badge/NCSC-CAF-blue" />
   <img src="https://img.shields.io/badge/NIST-CSF-informational" />
@@ -41,77 +36,81 @@ Cyber Risk & Assurance Analyst with hands-on exposure across governance, risk, c
 
 ---
 
-## What I Build
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=patrickdad&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patrickdad&theme=github-dark&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🚀 Featured Work
+
+### 🔐 Cloud Compliance Readiness Toolkit
+**FastAPI + Streamlit platform simulating enterprise compliance workflows**
+
+- SOC 2, ISO 27001, PCI DSS assessments  
+- Control testing & evidence tracking  
+- Risk identification & remediation workflows  
+
+🔗 https://github.com/patrickdad/cloud-compliance-readiness-toolkit
+
+---
+
+### 🛡️ CAF Cyber Assurance Audit
+**End-to-end cyber assurance audit aligned with UK NCSC CAF**
+
+- Risk register & control mapping  
+- Evidence-based assurance assessment  
+- Public sector & critical infrastructure alignment  
+
+🔗 https://github.com/patrickdad/CAF-Cyber-Assurance-Audit
+
+---
+
+## 🔧 What I Build
 
 - Real-world **cyber assurance audit simulations**
-- **Compliance readiness platforms** for SOC 2, ISO 27001 and PCI DSS
-- Risk registers, control mapping and evidence tracking systems
-- Tools for **security visibility**, governance support and risk-informed decision-making
+- **Compliance readiness platforms**
+- Risk registers & control mapping systems
+- Tools for **security visibility and decision support**
 
 ---
 
-## Featured Projects
+## 🧠 Technical Exposure
 
-### Cloud Compliance Readiness Toolkit
-A FastAPI + Streamlit platform simulating enterprise compliance workflows across major frameworks.
-
-**Highlights**
-- SOC 2, ISO/IEC 27001 and PCI DSS assessment simulation
-- Control testing and evidence collection workflows
-- Risk identification, remediation tracking and reporting
-
-**Repo:** [cloud-compliance-readiness-toolkit](https://github.com/patrickdad/cloud-compliance-readiness-toolkit)
+- SIEM (Splunk) log analysis & threat detection  
+- Endpoint & USB threat monitoring  
+- Network traffic analysis  
+- Incident response workflows  
 
 ---
 
-### CAF Cyber Assurance Audit
-An end-to-end cyber assurance audit project aligned with the UK NCSC Cyber Assessment Framework.
+## 🎯 Professional Focus
 
-**Highlights**
-- Risk register and control mapping
-- Evidence-based assurance assessment
-- Public sector and critical infrastructure alignment
-
-**Repo:** [CAF-Cyber-Assurance-Audit](https://github.com/patrickdad/CAF-Cyber-Assurance-Audit)
+- Audit readiness & regulatory compliance  
+- Operational resilience & risk reduction  
+- Threat detection & incident response  
+- Data-driven security decision making  
 
 ---
 
-## Technical Exposure
+## 🚧 Current Direction
 
-- SIEM log analysis and threat detection
-- Endpoint and USB threat monitoring
-- Network traffic analysis
-- Incident response and investigation workflows
-- GRC documentation and assurance reporting
+- Advancing into **GRC engineering & cyber assurance roles**
+- Expanding **SOC + SIEM investigation capabilities**
+- Building **real-world portfolio aligned with UK frameworks (CAF, ISO 27001)**
 
 ---
 
-## Professional Focus
+## 📫 Connect
 
-I’m building cybersecurity solutions that support:
-
-- Audit readiness and regulatory compliance
-- Operational resilience and risk reduction
-- Threat detection and incident response
-- Data-driven security decision-making
-
----
-
-## Current Direction
-
-- Expanding deeper into **cyber assurance, audit and GRC**
-- Strengthening practical **SOC + SIEM** investigation capability
-- Building portfolio projects that reflect real-world UK cyber assurance expectations
-
----
-
-## Connect With Me
-
-- LinkedIn: [patrickadefowora](https://www.linkedin.com/in/patrickadefowora)
-- Open to: **Cyber Risk, GRC, SOC, Cybersecurity Analyst and Assurance roles**
+- LinkedIn: https://linkedin.com/in/patrickadefowora  
+- Open to: Cyber Risk, GRC, SOC, Cybersecurity Analyst roles  
 
 ---
 
 <p align="center">
-  <i>Turning frameworks into evidence, controls into assurance, and risk into action.</i>
+  <i>Turning frameworks into evidence. Controls into assurance. Risk into action.</i>
 </p>
