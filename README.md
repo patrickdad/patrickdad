@@ -43,7 +43,7 @@ I specialise in translating compliance frameworks into practical, measurable out
   <img src="https://raw.githubusercontent.com/patrickdad/cloud-compliance-readiness-toolkit/main/assets/cloud-toolkit-card.jpg" width="400"/>
 </a>
 
-https://raw.githubusercontent.com/patrickdad/CAF-Cyber-Assurance-Audit/main/caf-card.jpg
+[https://raw.githubusercontent.com/patrickdad/CAF-Cyber-Assurance-Audit/main/caf-card.jpg](https://raw.githubusercontent.com/patrickdad/CAF-Cyber-Assurance-Audit/main/images/caf-card.jpg)
 </p>
 
 ---
