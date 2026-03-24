@@ -16,7 +16,7 @@
 
 Cyber Risk & Assurance Analyst with hands-on experience across governance, risk, compliance (GRC) and security operations.
 
-I specialise in translating compliance frameworks into practical, measurable outcomes that improve organisational resilience — particularly within **UK public sector and critical infrastructure environments**.
+I specialise in translating compliance frameworks into practical, measurable outcomes — particularly within **UK public sector and critical infrastructure environments**.
 
 ---
 
@@ -36,6 +36,19 @@ I specialise in translating compliance frameworks into practical, measurable out
 
 ---
 
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/patrickdad/cloud-compliance-readiness-toolkit">
+    <img src="https://raw.githubusercontent.com/patrickdad/cloud-compliance-readiness-toolkit/main/assets/cloud-toolkit-card.png" width="47%" />
+  </a>
+  <a href="https://github.com/patrickdad/CAF-Cyber-Assurance-Audit">
+    <img src="https://raw.githubusercontent.com/patrickdad/CAF-Cyber-Assurance-Audit/main/assets/caf-audit-card.png" width="47%" />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Insights
 
 <p align="center">
@@ -45,27 +58,11 @@ I specialise in translating compliance frameworks into practical, measurable out
 
 ---
 
-## 🚀 Featured Work
+## 🐍 Contribution Activity
 
-### 🔐 Cloud Compliance Readiness Toolkit
-**FastAPI + Streamlit platform simulating enterprise compliance workflows**
-
-- SOC 2, ISO 27001, PCI DSS assessments  
-- Control testing & evidence tracking  
-- Risk identification & remediation workflows  
-
-🔗 https://github.com/patrickdad/cloud-compliance-readiness-toolkit
-
----
-
-### 🛡️ CAF Cyber Assurance Audit
-**End-to-end cyber assurance audit aligned with UK NCSC CAF**
-
-- Risk register & control mapping  
-- Evidence-based assurance assessment  
-- Public sector & critical infrastructure alignment  
-
-🔗 https://github.com/patrickdad/CAF-Cyber-Assurance-Audit
+<p align="center">
+  <img src="https://raw.githubusercontent.com/patrickdad/patrickdad/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
@@ -93,14 +90,6 @@ I specialise in translating compliance frameworks into practical, measurable out
 - Operational resilience & risk reduction  
 - Threat detection & incident response  
 - Data-driven security decision making  
-
----
-
-## 🚧 Current Direction
-
-- Advancing into **GRC engineering & cyber assurance roles**
-- Expanding **SOC + SIEM investigation capabilities**
-- Building **real-world portfolio aligned with UK frameworks (CAF, ISO 27001)**
 
 ---
 
