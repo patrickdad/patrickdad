@@ -61,6 +61,7 @@ I specialise in translating compliance frameworks into practical, measurable out
 ## 🐍 Contribution Activity
 
 Tracking consistent contributions and continuous learning across cybersecurity, GRC, and cloud compliance projects.
+
 ---
 
 ## 🔧 What I Build
