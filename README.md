@@ -60,7 +60,7 @@ I specialise in translating compliance frameworks into practical, measurable out
 
 ## 🐍 Contribution Activity
 
-Tracking consistent contributions and continuous learning across cybersecurity, GRC, and cloud compliance projects.
+![Snake animation](https://github.com/patrickdad/patrickdad/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
