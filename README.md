@@ -60,7 +60,7 @@ I specialise in translating compliance frameworks into practical, measurable out
 
 ## 🐍 Contribution Activity
 
-![Snake animation](https://github.com/patrickdad/patrickdad/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/patrickdad/patrickdad/output/github-contribution-grid-snake.svg)
 
 ---
 
