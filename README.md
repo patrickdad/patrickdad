@@ -60,27 +60,24 @@ I specialise in translating compliance frameworks into practical, measurable out
 
 ## 🐍 Contribution Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/patrickdad/patrickdad/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
+Tracking consistent contributions and continuous learning across cybersecurity, GRC, and cloud compliance projects.
 ---
 
 ## 🔧 What I Build
 
-- Real-world **cyber assurance audit simulations**
-- **Compliance readiness platforms**
-- Risk registers & control mapping systems
-- Tools for **security visibility and decision support**
+• Cyber assurance audit simulations (NCSC CAF aligned)
+• Cloud compliance readiness platforms (ISO 27001, SOC 2, PCI DSS)
+• Risk registers, control mapping, and evidence tracking systems
+• Decision-support tools for security and compliance visibility
 
 ---
 
 ## 🧠 Technical Exposure
 
-- SIEM (Splunk) log analysis & threat detection  
-- Endpoint & USB threat monitoring  
-- Network traffic analysis  
-- Incident response workflows  
+• SIEM (Splunk) – log analysis, alerting, and threat detection
+• Endpoint monitoring & USB threat detection (behaviour-based)
+• Network traffic analysis (Wireshark, TCP/IP fundamentals)
+• Incident response workflows and investigation support 
 
 ---
 
