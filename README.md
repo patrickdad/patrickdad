@@ -41,7 +41,6 @@ I specialise in translating compliance frameworks into practical, measurable out
 <p align="center">
   <a href="https://github.com/patrickdad/cloud-compliance-readiness-toolkit">
     <img src="https://raw.githubusercontent.com/patrickdad/cloud-compliance-readiness-toolkit/main/assets/cloud-toolkit-card.jpg" width="420" alt="Cloud Compliance Readiness Toolkit"/>
-    ##Cloud Compliance Readiness Toolkits
   </a>
   <a href="https://github.com/patrickdad/CAF-Cyber-Assurance-Audit">
     <img src="https://raw.githubusercontent.com/patrickdad/CAF-Cyber-Assurance-Audit/main/caf-audit-card.jpg" width="420" alt="CAF Cyber Assurance Audit"/>
