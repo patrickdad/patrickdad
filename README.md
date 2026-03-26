@@ -1,4 +1,4 @@
-<h1 align="center">Patrick Adefowora 👋</h1>
+<h1 align="center">👋 Hi, I'm Patrick Adefowora </h1>
 <h3 align="center">Cyber Risk & Assurance Engineer | ISO 27001 • CAF • GRC • Security Operations</h3>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-Cyber Risk & Assurance Analyst with hands-on experience across governance, risk, compliance (GRC) and security operations.
+Cyber Risk & Assurance Analyst with hands-on experience across governance, risk, compliance (GRC), cyber resilience and security operations.
 
 I specialise in translating compliance frameworks into practical, measurable outcomes — particularly within **UK public sector and critical infrastructure environments**.
 
@@ -41,6 +41,7 @@ I specialise in translating compliance frameworks into practical, measurable out
 <p align="center">
   <a href="https://github.com/patrickdad/cloud-compliance-readiness-toolkit">
     <img src="https://raw.githubusercontent.com/patrickdad/cloud-compliance-readiness-toolkit/main/assets/cloud-toolkit-card.jpg" width="420" alt="Cloud Compliance Readiness Toolkit"/>
+    ##Cloud Compliance Readiness Toolkits
   </a>
   <a href="https://github.com/patrickdad/CAF-Cyber-Assurance-Audit">
     <img src="https://raw.githubusercontent.com/patrickdad/CAF-Cyber-Assurance-Audit/main/caf-audit-card.jpg" width="420" alt="CAF Cyber Assurance Audit"/>
