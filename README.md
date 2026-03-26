@@ -18,6 +18,12 @@ Cyber Risk & Assurance Analyst with hands-on experience across governance, risk,
 
 I specialise in translating compliance frameworks into practical, measurable outcomes — particularly within **UK public sector and critical infrastructure environments**.
 
+I build real-world cyber assurance simulations aligned with:
+- NCSC CAF
+- ISO/IEC 27001
+- SOC 2
+- NIST CSF
+
 ---
 
 ## ⚙️ Tech, Tools & Frameworks
