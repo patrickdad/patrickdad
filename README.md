@@ -61,7 +61,7 @@ I specialise in translating compliance frameworks into practical, measurable out
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/patrickdad/patrickdad/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/patrickdad/patrickdad/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
 ---
