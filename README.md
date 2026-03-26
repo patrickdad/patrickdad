@@ -66,19 +66,19 @@ Tracking consistent contributions and continuous learning across cybersecurity, 
 
 ## 🔧 What I Build
 
-• Cyber assurance audit simulations (NCSC CAF aligned)
-• Cloud compliance readiness platforms (ISO 27001, SOC 2, PCI DSS)
-• Risk registers, control mapping, and evidence tracking systems
-• Decision-support tools for security and compliance visibility
+- Cyber assurance audit simulations (NCSC CAF aligned)
+- Cloud compliance readiness platforms (ISO 27001, SOC 2, PCI DSS)
+- Risk registers, control mapping, and evidence tracking systems
+- Decision-support tools for security and compliance visibility
 
 ---
 
 ## 🧠 Technical Exposure
 
-• SIEM (Splunk) – log analysis, alerting, and threat detection
-• Endpoint monitoring & USB threat detection (behaviour-based)
-• Network traffic analysis (Wireshark, TCP/IP fundamentals)
-• Incident response workflows and investigation support 
+- SIEM (Splunk) – log analysis, alerting, and threat detection
+- Endpoint monitoring & USB threat detection (behaviour-based)
+- Network traffic analysis (Wireshark, TCP/IP fundamentals)
+- Incident response workflows and investigation support 
 
 ---
 
