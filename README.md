@@ -58,7 +58,7 @@ I build real-world cyber assurance simulations aligned with:
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patrickdad&theme=github-dark&hide_border=true" height="150" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patrickdad&theme=github-dark&hide_border=true" width="100%"/>
 </p>
 
 ---
