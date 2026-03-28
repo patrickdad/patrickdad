@@ -28,7 +28,7 @@ I build real-world cyber assurance simulations aligned with:
 
 ## ⚙️ Tech, Tools & Frameworks
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/ISO%2027001-GRC-success" />
   <img src="https://img.shields.io/badge/NCSC-CAF-blue" />
   <img src="https://img.shields.io/badge/NIST-CSF-informational" />
