@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Patrick Adefowora </h1>
-<h3 align="center">Cyber Risk & Assurance Engineer | ISO 27001 • CAF • GRC • Security Operations</h3>
+<h3 align="center">Cyber Risk & Assurance Engineer | ISC2 CC | CISA (Exam Passed) | ISO 27001 • NCSC CAF • GRC • Security Operations</h3>
 
 <p align="center">
   Turning cyber risk into actionable assurance — from frameworks to real-world implementation.
@@ -26,7 +26,7 @@ I build real-world cyber assurance simulations aligned with:
 
 ## Certifications
 - ISC2 Certified in Cybersecurity (CC)
-- ISACA Certified Information Systems Auditors (Exam Passed) endorsement in progress
+- ISACA Certified Information Systems Auditor(CISA) - Exam Passed, endorsement in progress
 - ISACA London Chapter Member
 - Security Onion Certified
 
