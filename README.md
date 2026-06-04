@@ -24,10 +24,10 @@ I build real-world cyber assurance simulations aligned with:
 - SOC 2
 - NIST CSF
 
----
 ## Certifications
 - ISC2 Certified in Cybersecurity (CC)
-- ISACA Member
+- ISACA Certified Information Systems Auditors (Exam Passed) endorsement in progress
+- ISACA London Chapter Member
 - Security Onion Certified
 
 ## Featured Projects
