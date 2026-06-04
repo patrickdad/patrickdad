@@ -108,3 +108,10 @@ I build real-world cyber assurance simulations aligned with:
 <p align="center">
   <i>Turning frameworks into evidence. Controls into assurance. Risk into action.</i>
 </p>
+
+---
+<p align="center">
+<i> © 2026 Patrick Adefowora. All rights reserved.
+
+This portfolio showcases cybersecurity, governance, risk, compliance, and software development projects for educational and professional demonstration purposes. Any views, findings, or implementations presented are my own unless otherwise stated.
+</p>
