@@ -25,6 +25,17 @@ I build real-world cyber assurance simulations aligned with:
 - NIST CSF
 
 ---
+## Certifications
+- ISC2 Certified in Cybersecurity (CC)
+- ISACA Member
+- Security Onion Certified
+
+## Featured Projects
+- Cloud Compliance Readiness Toolkit
+- NCSC CAF Cyber Assurance Assessment
+- USB HID Behaviour Detection System
+
+---
 
 ## ⚙️ Tech, Tools & Frameworks
 
